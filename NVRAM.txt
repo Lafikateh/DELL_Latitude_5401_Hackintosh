@@ -1,0 +1,10 @@
+4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14
+"DefaultBackgroundColor" = 0x00000000
+
+7C436110-AB2A-4BBB-A880-FE41995C9F82
+"bootercfg" = "log=0 debug=0 level=0"
+"boot-args" = "-wegnoegpu"
+"csr-active-config" = 0x00000000
+"prev-lang:kbd" = "en-US:0"
+"run-efi-updater" = "No"
+"SystemAudioVolume" = 0x19
