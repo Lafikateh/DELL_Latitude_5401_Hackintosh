@@ -1,0 +1,5 @@
+Power Management -> AC Behavior -> Wake on AC = Disabled
+Power Management -> USB Wake Support -> Wake on Dell USB-C Dock = Disabled
+Power Management -> Wake on LAN = Disabled
+Security -> TPM 2.0 Security = Disabled
+System Configuration -> Thunderbolt Adapter Configuration = Disabled
