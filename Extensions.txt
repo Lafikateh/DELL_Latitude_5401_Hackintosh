@@ -1,0 +1,15 @@
+Lilu.kext from https://github.com/acidanthera/Lilu
+VirtualSMC.kext from https://github.com/acidanthera/VirtualSMC
+WhateverGreen.kext from https://github.com/acidanthera/WhateverGreen
+AppleALC.kext from https://github.com/acidanthera/AppleALC
+IntelMausiEthernet.kext from https://github.com/acidanthera/IntelMausi
+NVMeFix.kext from https://github.com/acidanthera/NVMeFix
+VoodooPS2Controller.kext from https://github.com/acidanthera/VoodooPS2
+VoodooPS2Keyboard.kext from https://github.com/acidanthera/VoodooPS2
+VoodooPS2Mouse.kext from https://github.com/acidanthera/VoodooPS2
+VoodooInput.kext from https://github.com/acidanthera/VoodooPS2
+SMCBatteryManager.kext from https://github.com/acidanthera/VirtualSMC
+Sinetek-rtsx.kext from https://github.com/cholonam/Sinetek-rtsx
+AirportItlwm.kext from https://github.com/OpenIntelWireless/itlwm
+IntelBluetoothFirmware.kext from https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+IntelBluetoothInjector.kext from https://github.com/OpenIntelWireless/IntelBluetoothFirmware
