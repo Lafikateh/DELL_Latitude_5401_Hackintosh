@@ -1,0 +1,8 @@
+AudioDxe.efi
+ExFatDxe.efi
+ext4_x64.efi
+HfsPlus.efi
+OpenCanopy.efi
+OpenLinuxBoot.efi
+OpenRuntime.efi
+Rts5250.efi
