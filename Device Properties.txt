@@ -1,0 +1,25 @@
+PciRoot(0x0)/Pci(0x2,0x0):
+vendor-id = 0x86800000
+device-id = 0x9B3E0000
+framebuffer-patch-enable = 0x01000000
+framebuffer-fbmem = 0x00000000
+framebuffer-stolenmem = 0x00003001
+enable-backlight-registers-fix = 0x01000000
+framebuffer-con0-enable = 0x01000000
+framebuffer-con1-enable = 0x01000000
+framebuffer-con2-enable = 0x01000000
+framebuffer-con0-alldata = 0x000008000200000098000000
+framebuffer-con1-alldata = 0x0101090000080000C7010000
+framebuffer-con2-alldata = 0x02060A0000040000C7010000
+AAPL,slot-name = Internal@0,2,0
+AAPL,ig-platform-id = 0x09009B3E
+device_type = VGA compatible controller
+model = Intel CoffeeLake-H GT2 [UHD Graphics 630]
+
+PciRoot(0x0)/Pci(0x1F,0x3):
+vendor-id = 0x86800000
+device-id = 0x48A30000
+AAPL,slot-name = Internal@0,31,3
+layout-id = 0x03000000
+device_type = Audio device
+model = Cannon Lake PCH cAVS
