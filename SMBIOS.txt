@@ -1,0 +1,35 @@
+BIOS Vendor = "Apple Inc."
+BIOS Version = "1731.100.130.0.0"
+BIOS Release Date = "02/15/2022"
+
+System Manufacturer = "Apple Inc."
+System Product = "MacBookPro16,3"
+System Version = "1.0"
+System Family = "Macbook Pro"
+System SKU = ""
+System Serial = "Generate your own"
+System UUID = "Generate your own"
+
+Board Manufacturer = "Apple Inc."
+Board Product = "Mac-E7203C0F68AA0004"
+Board Version = "MacBookPro16,3"
+Board Location = "Part Component"
+Board Serial = "Generate your own"
+Board Type = 10
+Board Asset Tag = ""
+
+Chassis Manufacturer = "Apple Inc."
+Chassis Version = "Mac-E7203C0F68AA0004"
+Chassis Serial = "Generate your own"
+Chassis Type = 13
+Chassis Asset Tag = ""
+
+Processor Type = 3841
+Platform Features = 50
+Firmware Features = 0x660FFADF80000000
+Firmware Features Mask = 0xF7FFFFFF80000000
+
+SMC Platform = 0x6A32323300000000
+SMC Branch = Empty
+SMC Revision = Empty
+SMC Version = Empty
